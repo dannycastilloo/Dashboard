@@ -1,5 +1,5 @@
 ## Descripción
-Aplicación web con validación de usuario mediante Node JS, JSON Web Token y la librería Luna.
+Aplicación web con validación de usuario desarrollada con NodeJS, JSON Web Token y la librería Luna.
 
 ## Ejecución
 Login
