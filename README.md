@@ -2,10 +2,10 @@
 Aplicación web con validación de usuario desarrollada con NodeJS, JSON Web Token y la librería Luna.
 
 ## Login
-![image](https://github.com/dannycastilloo/JWT-Validation/assets/76531494/e67a616d-cfde-4186-a4ff-0cffb608b861)
+![Captura de pantalla 2023-08-10 124256](https://github.com/dannycastilloo/Dashboard/assets/76531494/d3eb2d0a-9f59-467b-8fb2-303aa0e84265)
 
 ## Register
-![image](https://github.com/dannycastilloo/JWT-Validation/assets/76531494/3601e118-115d-4c9c-bdc6-0eb80f9d77ae)
+![Captura de pantalla 2023-08-10 124400](https://github.com/dannycastilloo/Dashboard/assets/76531494/dc6e1cab-bb99-48f7-b36a-c5bb6268cf92)
 
 ## Home
-![image](https://github.com/dannycastilloo/JWT-Validation/assets/76531494/0a46269a-ca68-432c-89ad-db649c29befc)
+![Captura de pantalla 2023-08-10 124338](https://github.com/dannycastilloo/Dashboard/assets/76531494/3c8706c3-4b61-47fa-83c0-01faef8f60f9)
